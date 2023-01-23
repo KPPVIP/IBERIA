@@ -1,0 +1,15 @@
+
+INSTALACION >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+-Abrir el programa OpenV.
+-Buscar la carpeta:GTA V/mods/x64.rpf/levels/gta5/vehicles.rpf.
+-Abrir la carpeta jet+hi.ytd y remplazar el archivo jet_sign_3 y jet_wing_png por el que hemos descargado.
+
+
+Este mods,simplemente cambia la apariencia a uno de los aviones que ya hay en el juego.
+Espero que os guste y que lo disfruteis.
+Para cualquier mejora, idea  o modificacion del mods poneros en contacto conmigo,
+Un saludo. 
+
+
+Creado por PiRiSnEO.
